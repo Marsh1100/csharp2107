@@ -1,0 +1,15 @@
+/home/arteN01-061/Documents/Margie_Bocanegra/csharp2107/Clases_Objetos/obj/Debug/net7.0/Clases_Objetos.csproj.AssemblyReference.cache
+/home/arteN01-061/Documents/Margie_Bocanegra/csharp2107/Clases_Objetos/obj/Debug/net7.0/Clases_Objetos.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-061/Documents/Margie_Bocanegra/csharp2107/Clases_Objetos/obj/Debug/net7.0/Clases_Objetos.AssemblyInfoInputs.cache
+/home/arteN01-061/Documents/Margie_Bocanegra/csharp2107/Clases_Objetos/obj/Debug/net7.0/Clases_Objetos.AssemblyInfo.cs
+/home/arteN01-061/Documents/Margie_Bocanegra/csharp2107/Clases_Objetos/obj/Debug/net7.0/Clases_Objetos.csproj.CoreCompileInputs.cache
+/home/arteN01-061/Documents/Margie_Bocanegra/csharp2107/Clases_Objetos/bin/Debug/net7.0/Clases_Objetos
+/home/arteN01-061/Documents/Margie_Bocanegra/csharp2107/Clases_Objetos/bin/Debug/net7.0/Clases_Objetos.deps.json
+/home/arteN01-061/Documents/Margie_Bocanegra/csharp2107/Clases_Objetos/bin/Debug/net7.0/Clases_Objetos.runtimeconfig.json
+/home/arteN01-061/Documents/Margie_Bocanegra/csharp2107/Clases_Objetos/bin/Debug/net7.0/Clases_Objetos.dll
+/home/arteN01-061/Documents/Margie_Bocanegra/csharp2107/Clases_Objetos/bin/Debug/net7.0/Clases_Objetos.pdb
+/home/arteN01-061/Documents/Margie_Bocanegra/csharp2107/Clases_Objetos/obj/Debug/net7.0/Clases_Objetos.dll
+/home/arteN01-061/Documents/Margie_Bocanegra/csharp2107/Clases_Objetos/obj/Debug/net7.0/refint/Clases_Objetos.dll
+/home/arteN01-061/Documents/Margie_Bocanegra/csharp2107/Clases_Objetos/obj/Debug/net7.0/Clases_Objetos.pdb
+/home/arteN01-061/Documents/Margie_Bocanegra/csharp2107/Clases_Objetos/obj/Debug/net7.0/Clases_Objetos.genruntimeconfig.cache
+/home/arteN01-061/Documents/Margie_Bocanegra/csharp2107/Clases_Objetos/obj/Debug/net7.0/ref/Clases_Objetos.dll
