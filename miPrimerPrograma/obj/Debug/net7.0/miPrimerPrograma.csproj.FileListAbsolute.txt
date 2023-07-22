@@ -13,3 +13,18 @@
 /home/arteN01-061/Documents/Margie_Bocanegra/csharp2107/miPrimerPrograma/obj/Debug/net7.0/miPrimerPrograma.pdb
 /home/arteN01-061/Documents/Margie_Bocanegra/csharp2107/miPrimerPrograma/obj/Debug/net7.0/miPrimerPrograma.genruntimeconfig.cache
 /home/arteN01-061/Documents/Margie_Bocanegra/csharp2107/miPrimerPrograma/obj/Debug/net7.0/ref/miPrimerPrograma.dll
+D:\Documents\Campus Programmer\csharp2107\miPrimerPrograma\bin\Debug\net7.0\miPrimerPrograma.exe
+D:\Documents\Campus Programmer\csharp2107\miPrimerPrograma\bin\Debug\net7.0\miPrimerPrograma.deps.json
+D:\Documents\Campus Programmer\csharp2107\miPrimerPrograma\bin\Debug\net7.0\miPrimerPrograma.runtimeconfig.json
+D:\Documents\Campus Programmer\csharp2107\miPrimerPrograma\bin\Debug\net7.0\miPrimerPrograma.dll
+D:\Documents\Campus Programmer\csharp2107\miPrimerPrograma\bin\Debug\net7.0\miPrimerPrograma.pdb
+D:\Documents\Campus Programmer\csharp2107\miPrimerPrograma\obj\Debug\net7.0\miPrimerPrograma.csproj.AssemblyReference.cache
+D:\Documents\Campus Programmer\csharp2107\miPrimerPrograma\obj\Debug\net7.0\miPrimerPrograma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Campus Programmer\csharp2107\miPrimerPrograma\obj\Debug\net7.0\miPrimerPrograma.AssemblyInfoInputs.cache
+D:\Documents\Campus Programmer\csharp2107\miPrimerPrograma\obj\Debug\net7.0\miPrimerPrograma.AssemblyInfo.cs
+D:\Documents\Campus Programmer\csharp2107\miPrimerPrograma\obj\Debug\net7.0\miPrimerPrograma.csproj.CoreCompileInputs.cache
+D:\Documents\Campus Programmer\csharp2107\miPrimerPrograma\obj\Debug\net7.0\miPrimerPrograma.dll
+D:\Documents\Campus Programmer\csharp2107\miPrimerPrograma\obj\Debug\net7.0\refint\miPrimerPrograma.dll
+D:\Documents\Campus Programmer\csharp2107\miPrimerPrograma\obj\Debug\net7.0\miPrimerPrograma.pdb
+D:\Documents\Campus Programmer\csharp2107\miPrimerPrograma\obj\Debug\net7.0\miPrimerPrograma.genruntimeconfig.cache
+D:\Documents\Campus Programmer\csharp2107\miPrimerPrograma\obj\Debug\net7.0\ref\miPrimerPrograma.dll

@@ -11,13 +11,14 @@ class Proyecto {
         string posicion = Convert.ToString(Console.ReadLine())  ?? "Unknown answer";
 
         string[] columnas ={"a","b","c","d","e","f","g","h"};
-        char columnaChar = Convert.ToChar(posicion[0]);
-        //string columnaChar = posicion.Substring(0,1);
+        string columnaString = posicion.Substring(0,1);
         
-        int columnaInt = Array.IndexOf(columnas,columnaChar); //Se busca el índice y se le suma 1
-        int fila = posicion[1];
-        Console.Write(columnaChar);
-        Console.Write(columnas[3]);
+        int columnaInt = Array.IndexOf(columnas,columnaString)+1; //Se busca el índice y se le suma 1
+        int fila =Int32.Parse(Convert.ToString(posicion[1]));
+        
+        Console.Write(columnaInt+"\n");
+        Console.Write(fila+"\n");
+
 
 
         ArrayList movimientos = new ArrayList();
@@ -29,13 +30,18 @@ class Proyecto {
                 int nuevaFila = fila-1;
 
                 int nuevaColumna = columnaInt-2;
-                movimientos.Add(columnas[nuevaColumna-1]+Convert.ToString(nuevaFila));
+                //movimientos.Add(columnas[nuevaColumna-1]+Convert.ToString(nuevaFila));
+
+                Console.Write(columnas[nuevaColumna-1]);
+                Console.Write(nuevaFila+"\n");
                 
                 if(fila-2>0)
                 {
                     nuevaFila -=1;
                     nuevaColumna+=1;
-                    movimientos.Add(columnas[nuevaColumna-1]+Convert.ToString(nuevaFila));
+                    //movimientos.Add(columnas[nuevaColumna-1]+Convert.ToString(nuevaFila));
+                    Console.Write(columnas[nuevaColumna-1]);
+                    Console.Write(nuevaFila+"\n");
                 }
 
             }if(columnaInt+2 <= 8)
@@ -43,28 +49,36 @@ class Proyecto {
                 int nuevaFila = fila-1;
                 int nuevaColumna = columnaInt+2;
 
-                movimientos.Add(columnas[nuevaColumna-1]+Convert.ToString(nuevaFila));
-                if(fila-2>0)
+               // movimientos.Add(columnas[nuevaColumna-1]+Convert.ToString(nuevaFila));
+                Console.Write(columnas[nuevaColumna-1]);
+                Console.Write(nuevaFila+"\n");
+                if(fila-2 > 0)
                 {
                 nuevaFila -=1;
                 nuevaColumna-=1;
-                movimientos.Add(columnas[nuevaColumna-1]+Convert.ToString(nuevaFila));
+               // movimientos.Add(columnas[nuevaColumna-1]+Convert.ToString(nuevaFila));
+                Console.Write(columnas[nuevaColumna-1]);
+                Console.Write(nuevaFila+"\n");
                 }
             }
-        }else if(fila+1 <= 8)
+        }if(fila+1 <= 8)
         {
             if(columnaInt-2 > 0)
             {
                 int nuevaFila = fila+1;
 
                 int nuevaColumna = columnaInt-2;
-                movimientos.Add(columnas[nuevaColumna-1]+Convert.ToString(nuevaFila));
+               // movimientos.Add(columnas[nuevaColumna-1]+Convert.ToString(nuevaFila));
+                Console.Write(columnas[nuevaColumna-1]);
+                Console.Write(nuevaFila+"\n");
                 
                 if(fila+2 <= 8)
                 {
                     nuevaFila +=1;
                     nuevaColumna+=1;
-                    movimientos.Add(columnas[nuevaColumna-1]+Convert.ToString(nuevaFila));
+                    //movimientos.Add(columnas[nuevaColumna-1]+Convert.ToString(nuevaFila));
+                    Console.Write(columnas[nuevaColumna-1]);
+                    Console.Write(nuevaFila+"\n");
                 }
 
             }if(columnaInt+2 <= 8)
@@ -72,17 +86,21 @@ class Proyecto {
                 int nuevaFila = fila+1;
                 int nuevaColumna = columnaInt+2;
 
-                movimientos.Add(columnas[nuevaColumna-1]+Convert.ToString(nuevaFila));
+               // movimientos.Add(columnas[nuevaColumna-1]+Convert.ToString(nuevaFila));
+                Console.Write(columnas[nuevaColumna-1]);
+                Console.Write(nuevaFila+"\n");
                 if(fila+2 <= 8)
                 {
                 nuevaFila +=1;
                 nuevaColumna-=1;
-                movimientos.Add(columnas[nuevaColumna-1]+Convert.ToString(nuevaFila));
+                //movimientos.Add(columnas[nuevaColumna-1]+Convert.ToString(nuevaFila));
+                Console.Write(columnas[nuevaColumna-1]);
+                Console.Write(nuevaFila+"\n");
                 }
             }
 
         }
-        Console.Write(movimientos);
+        //Console.Write(movimientos);
         
     }
 }

@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = miPrimerPrograma
-build_property.ProjectDir = D:\Documents\Campus Programmer\csharp2107\miPrimerPrograma\
+build_property.RootNamespace = Models
+build_property.ProjectDir = d:\Documents\Campus Programmer\csharp2107\Clases_Objetos\Models\
